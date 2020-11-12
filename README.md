@@ -1,2 +1,2 @@
 # python-exercises
-python beginner scripts
+Este repositório tem como principal objetivo armazenas os exercícios (básicos) solicitados nas aulas de python. Vale ressaltar que se trata de um conteúdo pouco elabora.
